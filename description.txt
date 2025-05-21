@@ -1,0 +1,19 @@
+Our VQC results can be replicated by running VQC.ipynb
+
+(latest packages should work but this is what was had installed:
+qiskit Version: 1.2.4
+qiskit-machine-learning Version: 0.8.2
+qiskit-aer Version: 0.16.0
+numpy Version: 1.26.4
+pandas Version: 2.0.3
+scikit-learn Version: 1.3.0)
+
+*dataset folder should be on same path. (or change the path to it in the code)
+---------------------------------------------------------------------------------
+Our code for Hybrid quantum-dl is inside HQdl.ipynb 
+However there are errors and we couldn't resolve it yet!
+
+*benchmark-datasets should be on same path. (or change the path to it in the code)
+---------------------------------------------------------------------------------
+
+The code from the original paper is available at: https://codeocean.com/capsule/5099010/tree
